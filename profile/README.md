@@ -21,4 +21,4 @@ You can also find us on social media:
 - [Twitter](https://twitter.com/adbsoftware)
 - [LinkedIn](https://www.linkedin.com/company/adb-software-solutions)
 - [Facebook](https://www.facebook.com/adbsoftwaresolutions)
-- [Instagram](https://www.instagram.com/adbsoftwaresolutions)
+- [Instagram](https://www.instagram.com/adbsoftware)
