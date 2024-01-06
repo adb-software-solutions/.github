@@ -18,10 +18,10 @@ If you would like to discuss a project with us, please get in touch. You can con
 
 You can also find us on social media:
 
-- [Twitter](https://twitter.com/adbsoftware)
-- [LinkedIn](https://www.linkedin.com/company/adb-software-solutions)
-- [Facebook](https://www.facebook.com/adbsoftwaresolutions)
-- [Instagram](https://www.instagram.com/adbsoftware)
+<a href="https://twitter.com/adbsoftware"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/company/adb-software-solutions"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/adbsoftwaresolutions"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/adbsoftware"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ## Programming Languages
 
@@ -36,7 +36,6 @@ You can also find us on social media:
 <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge"/></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
 
----
 ## Databases
 
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></a>
@@ -44,7 +43,6 @@ You can also find us on social media:
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 <a href="https://redis.io/"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
 
----
 ## Frameworks
 
 <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
@@ -57,7 +55,6 @@ You can also find us on social media:
 <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white&style=for-the-badge"/></a>
 <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 
----
 ## Operating Systems
 
 <a href="https://www.microsoft.com/en-in/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
@@ -69,7 +66,6 @@ You can also find us on social media:
 <a href="https://www.apple.com/uk/macos"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a> 
 <a href="https://www.android.com/intl/en_in/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> 
 
----
 ## IDE's
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
@@ -78,7 +74,6 @@ You can also find us on social media:
 <a href="https://notepad-plus-plus.org"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a>
 <a href="https://atom.io"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"></a>
 
----
 ## Dev Environment
 
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
